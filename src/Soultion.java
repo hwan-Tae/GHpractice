@@ -35,5 +35,6 @@ public class Soultion {
 		nums[j+1]=nums[r];
 		nums[r]=temp;
 		return j+1;
+		
 	}
 }
